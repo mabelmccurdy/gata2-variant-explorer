@@ -4,14 +4,14 @@
     "href": "variants.html",
     "title": "GATA2 Variant Explorer",
     "section": "",
-    "text": "Use the search box (top right) to search across all columns.\nUse the column filters (under each header) to filter specific fields.\nHelpful search terms to try:\n\nVariant type: missense, nonsense, frameshift, splice_site, inframe_ins, inframe_del``inframe_indel\nProtein region: N_tail, N_finger, spacer, C_finger, C_tail\nOrigin: germline, somatic, mixed\nDatabase IDs: ClinVar, All_of_Us, gnomAD, COSMIC\nHGVS: c., p., or a position like 345 or 354\n\nTip: You can combine terms in the global search (e.g., C_finger missense)."
+    "text": "Use the search box (top right) to search across all columns.\nUse the column filters (under each header) to filter specific fields.\nHelpful search terms to try:\n\nVariant type: missense, nonsense, frameshift, splice_site, inframe_indel, inframe_ins, inframe_del\nProtein region: N_tail, N_finger, spacer, C_finger, C_tail\nOrigin: germline, somatic, mixed\nDatabase IDs: ClinVar, All_of_Us, gnomAD, COSMIC\nHGVS: c., p., or a position like 345 or 354\n\nTip: You can combine terms in the global search (e.g., C_finger missense)."
   },
   {
     "objectID": "variants.html#how-to-use-the-explorer",
     "href": "variants.html#how-to-use-the-explorer",
     "title": "GATA2 Variant Explorer",
     "section": "",
-    "text": "Use the search box (top right) to search across all columns.\nUse the column filters (under each header) to filter specific fields.\nHelpful search terms to try:\n\nVariant type: missense, nonsense, frameshift, splice_site, inframe_ins, inframe_del``inframe_indel\nProtein region: N_tail, N_finger, spacer, C_finger, C_tail\nOrigin: germline, somatic, mixed\nDatabase IDs: ClinVar, All_of_Us, gnomAD, COSMIC\nHGVS: c., p., or a position like 345 or 354\n\nTip: You can combine terms in the global search (e.g., C_finger missense)."
+    "text": "Use the search box (top right) to search across all columns.\nUse the column filters (under each header) to filter specific fields.\nHelpful search terms to try:\n\nVariant type: missense, nonsense, frameshift, splice_site, inframe_indel, inframe_ins, inframe_del\nProtein region: N_tail, N_finger, spacer, C_finger, C_tail\nOrigin: germline, somatic, mixed\nDatabase IDs: ClinVar, All_of_Us, gnomAD, COSMIC\nHGVS: c., p., or a position like 345 or 354\n\nTip: You can combine terms in the global search (e.g., C_finger missense)."
   },
   {
     "objectID": "gata2.html",

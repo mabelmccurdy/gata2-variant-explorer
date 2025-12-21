@@ -12,7 +12,7 @@ execute:
 -   Use the **search box** (top right) to search across all columns.
 -   Use the **column filters** (under each header) to filter specific fields.
 -   Helpful search terms to try:
-    -   Variant type: `missense`, `nonsense`, `frameshift`, `splice_site`, `inframe_ins`, ``` inframe_del``inframe_indel ```
+    -   Variant type: `missense`, `nonsense`, `frameshift`, `splice_site`, `inframe_indel`, `inframe_ins`, `inframe_del`
     -   Protein region: `N_tail`, `N_finger`, `spacer`, `C_finger`, `C_tail`
     -   Origin: `germline`, `somatic`, `mixed`
     -   Database IDs: `ClinVar`, `All_of_Us`, `gnomAD`, `COSMIC`
