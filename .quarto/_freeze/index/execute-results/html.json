@@ -1,0 +1,17 @@
+{
+  "hash": "bcee131fe3bbaa83500a2274b1df3c62",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Home\"\n---\n\n## Welcome\n\nThis site provides an **educational and research-support resource** for **GATA2** coding variants, integrating evidence from public databases and the primary literature.\n\n## What you’ll find here\n\n- **GATA2 Variant Explorer**  \n  An interactive table of curated GATA2 coding variants with clinical, functional, and population annotations.\n\n- **About Me**  \n  Background on the curator and the motivation behind this project.\n\n## Disclaimer\n**This resource is for educational and research purposes only.**  \nIt is not intended for clinical diagnosis, treatment decisions, or patient management. Variant interpretations may evolve as new evidence becomes available. Because source materials occasionally contain inconsistencies or typographical errors, some entries may be incomplete or subject to revision.\n\n---\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n## Running Code\n\nWhen you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nYou can add options to executable code like this\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n\n\nThe `echo: false` option disables the printing of code (only output is displayed).\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

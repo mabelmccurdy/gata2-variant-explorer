@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "variants.html",
+    "href": "variants.html",
+    "title": "GATA2 Variant Explorer",
+    "section": "",
+    "text": "Use the search box (top right) to search across all columns.\nUse the column filters (under each header) to filter specific fields.\nHelpful search terms to try:\n\nVariant type: missense, nonsense, frameshift, splice_site, inframe_ins, inframe_del``inframe_indel\nProtein region: N_tail, N_finger, spacer, C_finger, C_tail\nOrigin: germline, somatic, mixed\nDatabase IDs: ClinVar, All_of_Us, gnoMAD, COSMIC\nHGVS: c., p., or a position like 345 or 354\n\nTip: You can combine terms in the global search (e.g., C_finger missense)."
+  },
+  {
+    "objectID": "variants.html#how-to-use-the-explorer",
+    "href": "variants.html#how-to-use-the-explorer",
+    "title": "GATA2 Variant Explorer",
+    "section": "",
+    "text": "Use the search box (top right) to search across all columns.\nUse the column filters (under each header) to filter specific fields.\nHelpful search terms to try:\n\nVariant type: missense, nonsense, frameshift, splice_site, inframe_ins, inframe_del``inframe_indel\nProtein region: N_tail, N_finger, spacer, C_finger, C_tail\nOrigin: germline, somatic, mixed\nDatabase IDs: ClinVar, All_of_Us, gnoMAD, COSMIC\nHGVS: c., p., or a position like 345 or 354\n\nTip: You can combine terms in the global search (e.g., C_finger missense)."
+  },
+  {
+    "objectID": "gata2.html",
+    "href": "gata2.html",
+    "title": "About GATA2",
+    "section": "",
+    "text": "GATA2 is an essential transcription factor that promotes hematopoietic stem and progenitor cell (HSPC) generation and function.\n\nFigure 1: A. (Adapted from Bresnick and Johnson. Blood Adv. 2019.) The murine -77 and +9.5 transcriptional enhancers reside 77 and 9.5 kb upstream and downstream, respectively, of the Gata2 transcriptional start site. These enhancers are critical for mouse embryogenesis and hematopoiesis. The +9.5 enhancer confers hematopoietic stem cell (HSC) emergence at E10.5 in the AGM, and the -77 enhancer confers HSPC expansion and myelo-erythropoiesis at E14.5 in the fetal liver. B. GATA2 expression confers hematopoiesis. HSPC expansion impacted by GATA2 are highlighted in yellow."
+  },
+  {
+    "objectID": "gata2.html#gata2-master-regulator-of-hematopoiesis",
+    "href": "gata2.html#gata2-master-regulator-of-hematopoiesis",
+    "title": "About GATA2",
+    "section": "",
+    "text": "GATA2 is an essential transcription factor that promotes hematopoietic stem and progenitor cell (HSPC) generation and function.\n\nFigure 1: A. (Adapted from Bresnick and Johnson. Blood Adv. 2019.) The murine -77 and +9.5 transcriptional enhancers reside 77 and 9.5 kb upstream and downstream, respectively, of the Gata2 transcriptional start site. These enhancers are critical for mouse embryogenesis and hematopoiesis. The +9.5 enhancer confers hematopoietic stem cell (HSC) emergence at E10.5 in the AGM, and the -77 enhancer confers HSPC expansion and myelo-erythropoiesis at E14.5 in the fetal liver. B. GATA2 expression confers hematopoiesis. HSPC expansion impacted by GATA2 are highlighted in yellow."
+  },
+  {
+    "objectID": "gata2.html#gata2-wild-type-vs-9-amino-acid-insertion-variant",
+    "href": "gata2.html#gata2-wild-type-vs-9-amino-acid-insertion-variant",
+    "title": "About GATA2",
+    "section": "GATA2 wild type vs 9 amino acid insertion variant",
+    "text": "GATA2 wild type vs 9 amino acid insertion variant\nThe GATA2 9–amino acid insertion variant formed the foundation of my doctoral work.\n\nFigure 2: AlphaFold rendering comparing GATA2 wild-type and 9aa insertion variant.\nThis patient-derived in-frame insertion (p.A345delinsALLVAALLAA), located in the inter-zinc finger spacer region (Cavalcante de Andrade Silva et al. Leukemia. 2021), revealed how disruption of a transcription factor can drive genome-wide regulatory changes rather than isolated gene effects (Jung et al. J Clin Invest. 2023). Studying this variant led to the discovery that GATA2 decommissions inflammatory enhancers, linking regulatory dysfunction to immune dysregulation and blood cancer predisposition (Jung et al. Cell Rep. 2025)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This site provides an educational and research-support resource for curated GATA2 variants, integrating evidence from public databases and the primary literature."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "",
+    "text": "This site provides an educational and research-support resource for curated GATA2 variants, integrating evidence from public databases and the primary literature."
+  },
+  {
+    "objectID": "index.html#mabel-mccurdy-minji-jung",
+    "href": "index.html#mabel-mccurdy-minji-jung",
+    "title": "Home",
+    "section": "Mabel McCurdy (Minji Jung)",
+    "text": "Mabel McCurdy (Minji Jung)\n\n\nHello! I am a Ph.D.-trained scientist with a background in functional genomics, transcriptional regulation, and variant interpretation, with a research focus on GATA2-associated disease mechanisms.\nThis project grew out of my doctoral work investigating how pathogenic GATA2 variants alter genome-wide regulatory programs, including enhancer dysregulation and inflammatory signaling. I created this resource to consolidate clinical and functional evidence on GATA2 variants and to further develop my skills in computational curation and clinical genomics–adjacent workflows.\nI am actively pursuing industry roles in variant assessment and clinical genomics, where accurate interpretation and clear communication of genetic evidence directly impact patient care."
+  },
+  {
+    "objectID": "index.html#connect",
+    "href": "index.html#connect",
+    "title": "Home",
+    "section": "Connect",
+    "text": "Connect\n\nLinkedIn:\nhttp://www.linkedin.com/in/mabel-mccurdy-655136118\nCurriculum Vitae (PDF):\nDownload CV"
+  },
+  {
+    "objectID": "index.html#disclaimer",
+    "href": "index.html#disclaimer",
+    "title": "Home",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThis resource is for educational and research purposes only.\nIt is not intended for clinical diagnosis, treatment decisions, or patient management. Variant interpretations may evolve as new evidence becomes available. Because source materials occasionally contain inconsistencies or typographical errors, some entries may be incomplete or subject to revision. (Last updated Dec 2025.) —"
+  }
+]

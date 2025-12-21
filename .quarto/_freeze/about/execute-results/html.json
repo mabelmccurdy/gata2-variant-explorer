@@ -1,0 +1,17 @@
+{
+  "hash": "d3993a3c5142b37c74daa8b436c93914",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About Me\"\n---\nI am a Ph.D.-trained scientist with a background in **functional genomics, transcriptional regulation, and variant interpretation**, with a research focus on **GATA2-associated disease mechanisms**.\n\nThis project grew out of my doctoral work investigating how pathogenic GATA2 variants alter genome-wide regulatory programs, including enhancer dysregulation and inflammatory signaling. I created this resource to consolidate variant-level evidence and to further develop my skills in computational curation and clinical genomics–adjacent workflows.\n\nI am actively pursuing **industry roles in variant assessment and clinical genomics**, where accurate interpretation and clear communication of genetic evidence directly impact patient care.\n\n---\n\n### Connect\n\n- **LinkedIn:**  \n  http://www.linkedin.com/in/mabel-mccurdy-655136118\n\n- **Curriculum Vitae (PDF):**  \n  [Download CV](assets/Mabel_McCurdy_CV.pdf)\n\n*A role-specific resume and references available upon request.*\n\n---\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n## Running Code\n\nWhen you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nYou can add options to executable code like this\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n\n\nThe `echo: false` option disables the printing of code (only output is displayed).\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

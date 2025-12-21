@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "GATA2 Variant Curation"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: variants.qmd
+        text: Variants
+      - href: methods.qmd
+        text: Methods
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    toc: true
