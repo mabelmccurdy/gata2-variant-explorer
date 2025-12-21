@@ -9,16 +9,17 @@ execute:
 
 ## How to use the explorer
 
-- Use the **search box** (top right) to search across all columns.
-- Use the **column filters** (under each header) to filter specific fields.
-- Helpful search terms to try:
-  - Variant type: `missense`, `nonsense`, `frameshift`, `splice_site`, `inframe_ins`, `inframe_del``inframe_indel`
-  - Protein region: `N_tail`, `N_finger`, `spacer`, `C_finger`, `C_tail`
-  - Origin: `germline`, `somatic`, `mixed`
-  - Database IDs: `ClinVar`, `All_of_Us`, `gnoMAD`, `COSMIC`
-  - HGVS: `c.`, `p.`, or a position like `345` or `354`
-- Tip: You can combine terms in the global search (e.g., `C_finger missense`).
-  
+-   Use the **search box** (top right) to search across all columns.
+-   Use the **column filters** (under each header) to filter specific fields.
+-   Helpful search terms to try:
+    -   Variant type: `missense`, `nonsense`, `frameshift`, `splice_site`, `inframe_ins`, ``` inframe_del``inframe_indel ```
+    -   Protein region: `N_tail`, `N_finger`, `spacer`, `C_finger`, `C_tail`
+    -   Origin: `germline`, `somatic`, `mixed`
+    -   Database IDs: `ClinVar`, `All_of_Us`, `gnomAD`, `COSMIC`
+    -   HGVS: `c.`, `p.`, or a position like `345` or `354`
+-   Tip: You can combine terms in the global search (e.g., `C_finger missense`).
+
+```{=html}
 <style>
 /* Make the content span full width */
 main.content { max-width: 100% !important; }
@@ -29,7 +30,9 @@ main.content { max-width: 100% !important; }
 /* Prevent wrapping so more columns fit horizontally */
 table.dataTable th, table.dataTable td { white-space: nowrap; }
 </style>
----
+```
+
+------------------------------------------------------------------------
 
 ```{r}
 library(readr)
