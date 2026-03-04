@@ -12,9 +12,9 @@ This site provides an **educational and research-support resource** for curated 
 ::: {.column width="65%"}
 Hello! I am a Ph.D.-trained scientist with a background in functional genomics, transcriptional regulation, and variant interpretation, with a research focus on GATA2-associated disease mechanisms.
 
-This project grew out of my doctoral work investigating how pathogenic *GATA2* variants alter genome-wide regulatory programs, including enhancer dysregulation and inflammatory signaling. I created this resource to consolidate clinical and functional evidence on *GATA2* variants and to further develop my skills in computational curation and clinical genomics–adjacent workflows.
+This project grew out of my doctoral work investigating how pathogenic *GATA2* variants alter genome-wide regulatory programs, including enhancer dysregulation and inflammatory signaling. I created this resource to consolidate clinical and functional evidence on *GATA2* variants and to further develop my skills in structured genomic curation.
 
-I am actively pursuing industry roles in **variant assessment and clinical genomics**, where accurate interpretation and clear communication of genetic evidence directly impact patient care.
+This portfolio highlights my interest in bridging molecular research, variant interpretation, and translational genomics to better understand how genetic variation contributes to human disease.
 :::
 
 ::: {.column width="35%"}
